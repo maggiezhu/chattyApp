@@ -2,21 +2,21 @@
 A real-time, single-page chatting app for multiple users.
 
 Stack:
-      ReactJS
-      Node.js
-      JSX
-      ES6
-      Webpack
-      Babel
-      WebSockets
-      express
+      * ReactJS
+      * Node.js
+      * JSX
+      * ES6
+      * Webpack
+      * Babel
+      * WebSockets
+      * express
 
 ## Getting Started
-Run React app on 'localhost:3000':
+- Run React app on 'localhost:3000':
   * Install dependencies first
     ``` npm install```
     ```npm start```
-Run Server on 'localhost:3001':
+- Run Server on 'localhost:3001':
   * Run server.js in chatty_server folder
   ```node server.js```
 
