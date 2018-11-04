@@ -1,7 +1,7 @@
 # Chatty App
 A real-time, single-page chatting app for multiple users.
 
-Stack:
+## Stack:
 - ReactJS
 - Node.js
 - JSX
